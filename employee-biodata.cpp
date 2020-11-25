@@ -92,7 +92,7 @@ int main() {
 
 	for(int i = 0; i < num; ++i) {
 		emp[i].read();
-		emp[i].display()g
+		emp[i].display();
 	}
-
+	return 0;
 }
